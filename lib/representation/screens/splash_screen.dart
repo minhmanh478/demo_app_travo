@@ -1,6 +1,8 @@
 import 'package:demo_app_travo/core/helpers/assets_helper.dart';
 import 'package:demo_app_travo/core/helpers/image_helper.dart';
+import 'package:demo_app_travo/core/helpers/local_storage_helper.dart';
 import 'package:demo_app_travo/representation/screens/intro_screen.dart';
+import 'package:demo_app_travo/representation/screens/main_app.dart';
 import 'package:flutter/material.dart';
 
 class SplashScreen extends StatefulWidget {
@@ -20,9 +22,19 @@ class _SplashScreenState extends State<SplashScreen> {
   }
 
   void redirectIntroScreen() async {
-    await Future.delayed(const Duration(seconds: 2));
-    // ignore: use_build_context_synchronously
-    Navigator.of(context).pushNamed(IntroScreen.routeName);
+    final ignoreIntroScreen =
+        LocalStorageHelper.getValue('ignoreIntroScreen') as bool?;
+
+    await Future.delayed(const Duration(milliseconds: 2000));
+
+    if (!mounted) return; // Kiểm tra context còn tồn tại
+
+    if (ignoreIntroScreen != null && ignoreIntroScreen) {
+      Navigator.of(context).pushNamed(MainApp.routeName);
+    } else {
+      LocalStorageHelper.setValue('ignoreIntroScreen', true);
+      Navigator.of(context).pushNamed(IntroScreen.routeName);
+    }
   }
 
   @override

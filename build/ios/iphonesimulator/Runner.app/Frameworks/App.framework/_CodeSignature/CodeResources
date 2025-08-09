@@ -10,11 +10,11 @@
 		</data>
 		<key>flutter_assets/AssetManifest.bin</key>
 		<data>
-		wtZ9Plm1c9vLU6dejuVUaMdIgGQ=
+		hPJ8/5J6Q7agC8feK+BL/t1FMd8=
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		2I9RXPMhlgB8lIdk37pl7BWpJKM=
+		zavYnWBe1ow4qSFc5Z153owcJMk=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -22,7 +22,23 @@
 		</data>
 		<key>flutter_assets/NOTICES.Z</key>
 		<data>
-		MtGhqy1N83LymF+xVlvBDq1bNtY=
+		mwbjkTiIhHnZQc5QYikKrN8aDZY=
+		</data>
+		<key>flutter_assets/assets/icons/all_hotel_plane.png</key>
+		<data>
+		ZChAV1nHE/Qstz9DDKj5vDmZZ3w=
+		</data>
+		<key>flutter_assets/assets/icons/back_icon.png</key>
+		<data>
+		uUmKCJb//NlmwLswHqtkJUBzvaI=
+		</data>
+		<key>flutter_assets/assets/icons/flights_icon.png</key>
+		<data>
+		kDLvyzQjNlGnckoBwzNMeRwUcIw=
+		</data>
+		<key>flutter_assets/assets/icons/hotel_icon.png</key>
+		<data>
+		KPxYXws1H2vlnLGv0Wuen/ZC120=
 		</data>
 		<key>flutter_assets/assets/images/background_splash.png</key>
 		<data>
@@ -44,6 +60,18 @@
 		<data>
 		HFwdWVqbSKmHc0b7pA4OznX/8dM=
 		</data>
+		<key>flutter_assets/assets/images/oval_1.png</key>
+		<data>
+		h9mClSd4hzG/Dkzv5n/q87FwDIg=
+		</data>
+		<key>flutter_assets/assets/images/oval_2.png</key>
+		<data>
+		zx5gPswIct/2WWRcNIdWLoYJvFU=
+		</data>
+		<key>flutter_assets/assets/images/person.jpg</key>
+		<data>
+		Cf51X2NszxT5/GhRuIRYUP2iew4=
+		</data>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
 		/CUoTuPQqqdexfyOT9lpJhV+2MQ=
@@ -54,7 +82,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		WssdBsmjjPvqw2uEBveyecmmY0s=
+		GPRG5hKr1AUedkO85Ote60uwB7c=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -75,14 +103,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8VZu8wdy6aBwTQoXNViyO2v+SGsUFCJHG2fCaPpD2F8=
+			xk5fT7QF24+x3fvZO/B8vVT3AzlDGVLv4pFhu5xl2Wg=
 			</data>
 		</dict>
 		<key>flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9tNrcUnAZUjzH9TvoDePxyzfhUSjtLqoNG32Usq9Kl0=
+			AjkuBXLAklUjJb0ErDuB0y5RhtvJeaOPL/rEKBNFzgE=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -96,7 +124,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eH0WBS/Rqj+Xj/ifDN1v0/73XCfI+QjAo+WtfyEImFY=
+			4zcbGoB0r23d26yNJvd3MohOQ8Sz4Nd8KFzoDSZJrjE=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/all_hotel_plane.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			u/q2hTvqehRI9+fBlMyjsBAs8PaJSD52qe1pIb6M5Dg=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/back_icon.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zBKaAZgtYf4bEYuAduzFvPVgsoWYvSVoClNnewlgs/o=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/flights_icon.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0H7NdVX9JPJPrRBga5qXeb9OeYqulaqKNPjLYVqW6f8=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/hotel_icon.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			R+K5WMOdXSfxMTA3Eq4DQhSxsEb1QV4qnU8IDxufaMw=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/images/background_splash.png</key>
@@ -134,6 +190,27 @@
 			h6o7UbHu3fjLQoFPuRFfIzRmn6f4nAIhH2qIZR7oJyI=
 			</data>
 		</dict>
+		<key>flutter_assets/assets/images/oval_1.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			O66Rubnr/7PL9Icymoz3rvj022QgUG9UrXLiDa1chHM=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/oval_2.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AyYrX17d+IjGg4qcJsBMcPrqra+uKsMhH4cYjOBx2gc=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/person.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cZtcIUS+Jl+Hi5NAtsAg+q2hHYHXK0Hg3HwiXjtdpEs=
+			</data>
+		</dict>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<dict>
 			<key>hash2</key>
@@ -152,7 +229,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CgkUhw31PDav240QZ3CKOJl54az/yhuOSVdZPu2gBck=
+			K/M3Hc9s8cqM0xaoV70lD9SnoNcum4AyN/Vb+xpaLeQ=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>

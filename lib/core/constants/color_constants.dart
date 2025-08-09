@@ -6,7 +6,7 @@ class ColorPallette {
   static const Color yellowColor = Color(0xFFFE9C5E);
 
   static const Color dividerColor = Color(0xFF6155CC);
-  static const Color text1Color = Color(0xFF6155CC);
+  static const Color text1Color = Color(0xFF323B4B);
   static const Color subTitleColor = Color(0xFF6155CC);
   static const Color backgroupScaffoldColor = Color(0xFF6155CC);
   static const Color whiteTextColor = Color(0xFFFFFFFF);
